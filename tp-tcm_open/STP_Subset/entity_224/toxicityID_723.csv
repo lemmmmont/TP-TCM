@@ -1,0 +1,7 @@
+﻿ID,toxicity_name,Label
+toxicity_id_1,大毒,toxicity
+toxicity_id_2,小毒,toxicity
+toxicity_id_3,无毒,toxicity
+toxicity_id_4,有大毒,toxicity
+toxicity_id_5,有小毒,toxicity
+toxicity_id_6,有毒,toxicity
