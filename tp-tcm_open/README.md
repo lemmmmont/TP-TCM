@@ -26,4 +26,5 @@ Main dependencies include:
 - SciPy
 - matplotlib
 
+The provided STP subset is intended only for code execution and implementation verification. Due to its limited size and incomplete coverage of the original data distribution, results obtained on this subset are not expected to reproduce the performance reported in the paper.
 
